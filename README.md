@@ -82,14 +82,6 @@ fn main() {
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="Métricas do GitHub" />
-</p>
-
----
-
 ## ⚡ Além do Código
 
 Quando não estou estruturando arquiteturas de software, compilando bibliotecas ou ajustando meu setup no Linux, é provável que você me encontre, jogando videogames de exploração ou automobilismo, tocando algum instrumento ou explorando a gastronomia de São Paulo.
