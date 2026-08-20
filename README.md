@@ -65,7 +65,6 @@ fn main() {
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-%238E75B2.svg?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini"/>
 </p>
 
 * **OS & Terminal:** Arch Linux, GNOME, Fish Shell
